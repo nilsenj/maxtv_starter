@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/maxtv":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/maxtv","hostpath":"/Users/nilsenj/Desktop/maxtv","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/nilsenj/Desktop/maxtv","disabled":false,"__vagrantfile":true}}}
